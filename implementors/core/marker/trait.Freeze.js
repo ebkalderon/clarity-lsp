@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["clarity_lsp"] = [{"text":"impl Freeze for ClarityLanguageBackend","synthetic":true,"types":[]}];
+implementors["xtask"] = [{"text":"impl Freeze for Pushd","synthetic":true,"types":[]},{"text":"impl Freeze for InstallCmd","synthetic":true,"types":[]},{"text":"impl Freeze for ServerOpt","synthetic":true,"types":[]},{"text":"impl Freeze for ClientOpt","synthetic":true,"types":[]},{"text":"impl Freeze for ClientOpts","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

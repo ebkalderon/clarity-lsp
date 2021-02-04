@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["clarity_lsp"] = [{"text":"impl !RefUnwindSafe for ClarityLanguageBackend","synthetic":true,"types":[]}];
+implementors["xtask"] = [{"text":"impl RefUnwindSafe for Pushd","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for InstallCmd","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for ServerOpt","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for ClientOpt","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for ClientOpts","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
